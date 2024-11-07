@@ -1,0 +1,7 @@
+gbif-visualization-bot/
+├── app.py                  # Archivo principal de la aplicación Streamlit
+├── gbif_utils.py           # Módulo para interactuar con la API de GBIF
+├── openai_utils.py         # Módulo para manejar interacciones con la API de OpenAI
+├── requirements.txt        # Dependencias del proyecto
+├── .env                    # Archivo para variables de entorno (API keys)
+└── README.md               # Descripción del proyecto
